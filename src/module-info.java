@@ -1,0 +1,2 @@
+module boolean_type {
+}
